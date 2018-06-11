@@ -33,6 +33,16 @@ body {
     float:left;
 }
 
+header h1 {
+    text-align:left;
+    font-size: 45px;
+    color: #333;
+    margin-top: 3%;
+    margin-left: 12%;
+    padding-left: 10px;
+    display:inline-block;
+}
+
 .flags {
     width:3%;
     height:auto;
@@ -89,16 +99,6 @@ nav ul {
 nav li {
     background-color: rgb(87, 87, 87);
     float:left;
-}
-
-header h1 {
-    text-align:center;
-    left: 50px;
-    font-size: 45px;
-    color: #333;
-    position: absolute;
-    right: 100px;
-    margin-top:50px;
 }
 
 .active {
