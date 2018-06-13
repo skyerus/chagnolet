@@ -8,8 +8,8 @@
         $message = htmlspecialchars($_POST['message']);
 
         if (!empty($name) && !empty($email) && !empty($message)){
-            $toEmail = 'info@chagnolet.com';
-            $subject = 'Contact request from' . $name;
+            $toEmail = 'skye.gill@skye-project.co.uk';
+            $subject = 'Contact request from ' . $name;
             $body = '<h2>Contact Request</h2>
                 <h4>Name</h4><p>' . $name .'</p>
                 <h4>Email</h4><p>' . $email . '</p>
