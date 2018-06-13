@@ -16,5 +16,5 @@ HTML5,CSS3 and PHP
 
 ## Author
 
-* **Skye Gill** - *Initial work* - [Skyerus](https://github.com/Skyerus)
+* **Skye Gill** - [Skyerus](https://github.com/Skyerus)
 
