@@ -5,7 +5,11 @@ so I have opted for a clean simple look.
 
 ---
 
-![Chagnolet](screenshots/chagnolet.png "Home page")
+![Chagnolet](screenshots/chagnolet_1.png "Home page")
+
+---
+
+![Chagnolet](screenshots/chagnolet_2.png "Contact form")
 
 ---
 
