@@ -5,7 +5,7 @@
     <meta name= "description" content="Welcome to our beautifully restored old mill house"
     <meta name="keywords" content="chagnolet, mill house, holiday, south of france">
     <meta name="author" content="Andrew Gill">
-    <title>Chagnolet | Prices </title>
+    <title>Chagnolet | Prix </title>
     <link rel="stylesheet" href="./css/style.css">
     </head>
 
